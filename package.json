@@ -1,0 +1,8 @@
+{
+  "name": "semantic-release-docker",
+  "version": "18.0.1",
+  "description": "Dockerfile for semantic-release",
+  "repository": "git@github.com:s5zy/semantic-release-docker.git",
+  "author": "Matthias Reichmann <matreich@uni-bremen.de>",
+  "license": "MIT"
+}
